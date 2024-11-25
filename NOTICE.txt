@@ -1,0 +1,16 @@
+Developing Wind Wave Monitoring System: An Application System for Monitoring and Forecasting Wind and Wave Conditions in the Philippines
+Copyright 2024 The BSIT 4th Year Students of College of Information Sciences and Computing, Central Mindanao University
+
+This product includes software developed at College of Information Sciences and Computing, Central Mindanao University.
+
+Portions of this software were developed as part of an academic project submitted to: ERIC LOZARITA, Instructor.
+
+Students:
+MARK ANTHONY ARCAYA
+MARK HAROLD LEONEL PALMARES
+MARK JUSTIN PENKIAN
+IRIS MELODY SARDANE
+ADRIANE CLAUDE NIÑO LOYLOY
+ANGELOU  LAPAD
+
+This software was developed for educational purposes to assist with real-time wind wave direction monitoring for improving disaster preparedness, navigation safety, and coastal resilience in the Philippines.
